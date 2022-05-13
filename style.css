@@ -4,19 +4,4 @@ html, body {
 }
 canvas {
   display: block;
-animation-direction: center;
 }
-div{
-text-align: center;
-
-
-}
-h1{
-color: rgba(169, 136, 229, 0.664);
-font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-
-
-
-
